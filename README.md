@@ -37,7 +37,8 @@ Install the Pillow library using pip:
 ```bash
 pip install pillow
 ```
-
+or
+https://pypi.org/project/pillow/
 ---
 
 ## 4. Copy the Script
